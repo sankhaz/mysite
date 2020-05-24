@@ -1,0 +1,43 @@
+body{
+  background-color: #ccedd2;
+}
+hr{
+
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #655c56;
+
+  width: 5%;
+  border-width: 7px;
+
+}
+h1{
+  color: #8cba51;
+}
+h3
+{
+  color: #8cba51;
+
+}
+h2
+{
+  color: #8cba51;
+}
+.profilepic{
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #2c7873;
+
+}
+h3:visited
+{
+  color: #347474;
+}
+h2:visited
+{
+  color: #347474;
+
+}
+h2:hover{
+  color: #ee8572;
+}
